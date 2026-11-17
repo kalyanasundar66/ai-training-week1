@@ -1,3 +1,3 @@
 # AI Training Week 1
 
-This repository contains Python training exercises.
+This repository contains Matplotlib charting exercises.
